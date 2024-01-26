@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlackHoleMX12892
-- 👀 I’m interested in creating games an minecraft mods
+- 👀 I’m interested in creating games an geometry dash mods
 - 🌱 I’m currently learning
 
 <!---
