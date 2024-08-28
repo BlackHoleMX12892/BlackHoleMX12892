@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlackHoleMX12892
-- 👀 I’m interested in creating ios apps, websites and geometry dash mods
-- 🌱 I’m currently learning swift
+- 👀 I’m interested in creating minecraft datapacks, websites and geometry dash mods
+- 🌱 I’m currently learning c++
 
 <!---
 BlackHoleMX12892/BlackHoleMX12892 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
