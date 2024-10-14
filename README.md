@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlackHoleMX12892
-- 👀 I’m interested in creating minecraft datapacks, websites and geometry dash mods
+- 👀 I’m interested in creating minecraft datapacks, websites, apps and geometry dash mods
 - 🌱 I’m currently learning c++
 
 <!---
