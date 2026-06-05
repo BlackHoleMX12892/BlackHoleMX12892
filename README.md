@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlackHoleMX12892
-- 👀 I’m interested in creating websites, and linux.
+- 👀 I’m interested in creating websites, geode mods, and linux.
 - 🇲🇽 I'm proudly Mexican.
 
 <!---
